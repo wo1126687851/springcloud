@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client" />
+        <module name="client2" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="consul-miya" />
+        <module name="serice-feign" />
+        <module name="server" />
+        <module name="service-ribbon" />
+        <module name="service-ribbon-hystrix" />
+        <module name="service-turbine" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client" target="1.8" />
+      <module name="client2" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consul-miya" target="1.8" />
+      <module name="serice-feign" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon-hystrix" target="1.8" />
+      <module name="service-turbine" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="zipkin" target="1.8" />
+      <module name="zipkin2" target="1.8" />
+      <module name="zipkin3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

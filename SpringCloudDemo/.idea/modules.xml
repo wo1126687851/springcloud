@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client2/client2.iml" filepath="$PROJECT_DIR$/client2/client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-miya/consul-miya.iml" filepath="$PROJECT_DIR$/consul-miya/consul-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon-hystrix/service-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/service-ribbon-hystrix/service-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-turbine/service-turbine.iml" filepath="$PROJECT_DIR$/service-turbine/service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springdemo3.iml" filepath="$PROJECT_DIR$/.idea/springdemo3.iml" />
+    </modules>
+  </component>
+</project>
